@@ -72,5 +72,7 @@ I'm Alessandro Magnocavallo, a developer with a background in Communication Desi
 ## Connect
 
 [Website](https://a.magno.me)
+
 [University Portfolio](https://a.magno.me/portfolio/)
+
 [ale@magno.me](mailto:ale@magno.me)
