@@ -2,7 +2,7 @@
 
 I'm Alessandro Magnocavallo, a developer with a background in Communication Design from Politecnico di Milano. I focus on bridging design thinking with technical implementation, specializing in AI integration and prompt engineering.
 
-I work mainly with **JavaScript**, **Python**, **HTML**, and **CSS**, building tools that leverage LLMs in practical applications.
+I work mainly with **JavaScript**, **Python**, **HTML**, and **CSS**, building tools that leverage LLMs in practical applications. My primary development tools are **Claude Code** and **Cursor**.
 
 ## Featured Projects
 
