@@ -50,6 +50,16 @@ A Telegram bot for automated financial analysis and portfolio management, deploy
 
 Minimal landing page hosted on GitHub Pages at [a.magno.me](https://a.magno.me).
 
+## Certifications
+
+**Google**
+- UX Design
+
+**Anthropic**
+- AI Fluency: Framework & Foundations
+- Building with the Claude API
+- Claude Code in Action
+
 ## Links
 
 - 🌐 [Personal Website](https://a.magno.me)
